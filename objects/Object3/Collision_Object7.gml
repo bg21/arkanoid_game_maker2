@@ -3,3 +3,4 @@
 
 
 scr_colisoes();
+scr_powerup();
